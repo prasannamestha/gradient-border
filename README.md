@@ -2,6 +2,8 @@
 
 A simple js that enables gradient-borders for any html element
 
+![Gradient border for html](https://miro.medium.com/max/875/1*8VhBsvWMZ1MQ0Zw60Jacwg.png)
+
 ## Usage
 
 Import the javascript and then add ```gradient-border``` attribute 
